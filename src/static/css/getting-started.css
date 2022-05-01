@@ -1,0 +1,18 @@
+
+.lp-img{
+    height: 420px;
+    width: 420px;
+}
+.getting-started-btn
+{
+    border-radius: 20px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    font-style: italic;
+    cursor: pointer;
+}
